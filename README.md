@@ -1,7 +1,7 @@
-# nilox94/tap
+# nilox94/tscatalog
 
 ```
-brew tap nilox94/tap
+brew tap nilox94/tscatalog
 brew install --cask tscatalog
 ```
 
